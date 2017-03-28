@@ -21,7 +21,7 @@ This Medium article best describes the long term vision of the project [Unmistak
 **How do I join?**
 -- Visit [the Terminal](https://swarm.city) to create a user profile and a digital wallet. 
 -- You can also find other locals in the Swarm City [#needaride Facebook groups](https://swarmedup.com)
--- Follow us on Slack, Twitter, Medium, Github, YouTube, Facebook, and most any other place you think the swarm might have landed just search Swarm City
+-- Follow us on [Slack](https://swarm-slack-invite.herokuapp.com/), [Twitter](https://twitter.com/SwarmCityDApp), [Medium](https://press.swarm.city/), Github, YouTube, Facebook, and most any other place you think the swarm might have landed just search Swarm City
 
 **What types of services will users offer on the platform?**
 We will begin by featuring ridesharing alternatives, and move from there into other services, such as Swarmbnb, babysitting, dog walking, car repair, or anything that is requested, the options are endless.
