@@ -1,5 +1,9 @@
 ## ARC to SWT Token Exchange
 
+
+<br>
+
+
 > [Token sale whitepaper](https://drive.google.com/file/d/0B9RSMdR2vWssV2JJX0t6dmN6SUk/view)
 
 > [Token exchange whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md)
