@@ -18,6 +18,9 @@
 <br>
 
 
+**What is a Swarm City Token (SWT)?**
+The SWT is a utility to pay for transactions in the Swarm City ecosystem.
+
 **Why do I need to exchange tokens?**
 For the benefit of this project it was necessary to fork the brand from Arcade City to Swarm City. 
 However, we wanted to make sure the brand fork did not impact Arcade City token owners. 
@@ -86,5 +89,11 @@ We will not refund ether, but you can sell ARC token on this decentralized excha
 
 **I missed the token sale, but I do want SWT, how can I buy tokens now?**
 The SWT will be listed on exchanges, where anyone can offer or buy tokens. In the more distant future, users can easily buy tokens from USD, EUR and other fiat currencies on our in-app exchange.
+
+..> [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-SWT)
+..> [Etherdelta](https://etherdelta.github.io/#SWT-ETH)
+..> [CryptoDerivatives](https://cryptoderivatives.market/token/SWT)
+..> [Coinmarketcap](http://coinmarketcap.com/assets/swarm-city/)
+
 
 Contact us: support@swarm.city
