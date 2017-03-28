@@ -1,9 +1,9 @@
 # FAQ 
 
-ARC to SWT Token Exchange
+## ARC to SWT Token Exchange
 
-Token sale whitepaper
-Token exchange whitepaper
+[Token sale whitepaper](https://drive.google.com/file/d/0B9RSMdR2vWssV2JJX0t6dmN6SUk/view)
+[Token exchange whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md)
 
 * [SWT contract]( https://etherscan.io/address/0xB9e7F8568e08d5659f5D29C4997173d84CdF2607)
 * [ARC-SWT Converter contract](https://etherscan.io/address/0x69e5da6904f73dfa845648e1991ad1dcc780f874#code)
