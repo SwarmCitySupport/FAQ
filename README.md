@@ -1,3 +1,12 @@
+## General Info
+
+**What is Swarm City's project vision?**
+The end goal of the of the Swarm City Decentralized App (DApp) is to provide users globally with the necessary tools to make Peer2Peer (P2P) interactions without a middleman. Users transact with whomever they choose, and privately negotiate the terms of the agreement. Users exchange a digital currency, referred to as the Swarm City Token (SWT), instead of fiat, thus creating a new economy using the Ethereum blockchain.
+
+**Where can I find the project roadmap?**
+This Medium article best describes the long term vision of the project [Unmistakably Swarm City](https://press.swarm.city/unmistakably-swarm-city-9522606f88)
+
+
 ## ARC to SWT Token Exchange
 
 
