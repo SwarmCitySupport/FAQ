@@ -8,7 +8,7 @@
 
 > [Token exchange whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md)
 
-> [Swarm City ERC-20 token](https://etherscan.io/token/0xB9e7F8568e08d5659f5D29C4997173d84CdF2607)
+> [SWT ERC-20 token contract](https://etherscan.io/token/0xB9e7F8568e08d5659f5D29C4997173d84CdF2607)
 
 
 <br>
