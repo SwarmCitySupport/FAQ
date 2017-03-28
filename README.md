@@ -6,31 +6,34 @@
 
 > [Token exchange whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md)
 
-* [SWT contract]( https://etherscan.io/address/0xB9e7F8568e08d5659f5D29C4997173d84CdF2607)
-* [ARC-SWT Converter contract](https://etherscan.io/address/0x69e5da6904f73dfa845648e1991ad1dcc780f874#code)
-* [Swarm City token explorer](https://etherscan.io/token/0xB9e7F8568e08d5659f5D29C4997173d84CdF2607)
+> [SWT contract]( https://etherscan.io/address/0xB9e7F8568e08d5659f5D29C4997173d84CdF2607)
 
-Why do I need to exchange tokens?
+> [ARC-SWT Converter contract](https://etherscan.io/address/0x69e5da6904f73dfa845648e1991ad1dcc780f874#code)
+
+> [Swarm City token explorer](https://etherscan.io/token/0xB9e7F8568e08d5659f5D29C4997173d84CdF2607)
+
+
+**Why do I need to exchange tokens?**
 For the benefit of this project it was necessary to fork the brand from Arcade City to Swarm City. 
 However, we wanted to make sure the brand fork did not impact Arcade City token owners. 
 The last step to completing our rebranding process is upgrading our token to ‘Swarm City Token’ (SWT).
 The Swarm City Ecosystem will run on SWT.
 
-Why the brand fork?
+**Why the brand fork?**
 There are 2 key reasons for the brand fork:
 the ARC symbol was already in use by some other coins
 the current token contract cannot be renamed, so cannot follow the brand change
 
-When can I start the exchange process?
+**When can I start the exchange process?**
 You can start the exchange anytime when you enter https://swarm.city/.
 
-Is there a time limit on exchanging ARC to SWT?
+**Is there a time limit on exchanging ARC to SWT?**
 There is no time limit on performing the conversion. This functionality will be permanently available in our contract.
 
-What is the exchange rate?
+**What is the exchange rate?**
 This is a 1:1 token exchange. 
 
-Where do I go to exchange my previously purchased ARC for SWT tokens?
+**Where do I go to exchange my previously purchased ARC for SWT tokens?**
 You will start the exchange by going to the Swarm City Terminal. 
 Visit https://swarm.city
 
