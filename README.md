@@ -5,6 +5,9 @@
 **What is the Swarm City mission?**
 The development goal of the of the Swarm City Decentralized App (DApp) is to provide users with the necessary tools to make Peer2Peer (P2P) interactions without a middleman world-wide. Users transact with whomever they choose, and privately negotiate the terms of the agreement. Users exchange a digital currency, referred to as the Swarm City Token (SWT), instead of fiat, thus creating a new economy using the Ethereum blockchain.
 
+**Is the Swarm City app open source?**
+Yes, and anyone can contribute on [Github](https://github.com/swarmcity)
+
 **Can users use any form of payment?**
 No, Only SWT will be accepted in the Swarm City ecosystem, so any ARC token holders who wish to interact with the Swarm City platform will need to exchange their ARC for SWT
 
@@ -25,6 +28,7 @@ This Medium article best describes the long term vision of the project [Unmistak
 
 **What types of services will users offer on the platform?**
 We will begin by featuring ridesharing alternatives, and move from there into other services, such as Swarmbnb, babysitting, dog walking, car repair, or anything that is requested, the options are endless.
+
 
 
 <br>
