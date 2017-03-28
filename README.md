@@ -7,10 +7,11 @@ The end goal of the of the Swarm City Decentralized App (DApp) is to provide use
 This Medium article best describes the long term vision of the project [Unmistakably Swarm City](https://press.swarm.city/unmistakably-swarm-city-9522606f88)
 
 
+<br>
+
+
 ## ARC to SWT Token Exchange
 
-
-<br>
 
 ### Links to Official docs
 
