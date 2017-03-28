@@ -1,5 +1,5 @@
 ## General Info
-
+---
 **What is Swarm City's project vision?**
 The end goal of the of the Swarm City Decentralized App (DApp) is to provide users globally with the necessary tools to make Peer2Peer (P2P) interactions without a middleman. Users transact with whomever they choose, and privately negotiate the terms of the agreement. Users exchange a digital currency, referred to as the Swarm City Token (SWT), instead of fiat, thus creating a new economy using the Ethereum blockchain.
 
@@ -9,9 +9,9 @@ This Medium article best describes the long term vision of the project [Unmistak
 
 <br>
 
-
+---
 ## ARC to SWT Token Exchange
-
+---
 
 ### Links to Official docs
 
@@ -97,7 +97,6 @@ We will not refund ether, but you can sell ARC token one of these decentralized 
 [CryptoDerivatives](https://cryptoderivatives.market/token/SWT)
 [Coinmarketcap](http://coinmarketcap.com/assets/swarm-city/)
 
-
 **I missed the token sale, but I do want SWT, how can I buy tokens now?**
 The SWT will be listed on exchanges, where anyone can offer or buy tokens. In the more distant future, users can easily buy tokens from USD, EUR and other fiat currencies on our in-app exchange.
 > [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-SWT)
@@ -106,4 +105,4 @@ The SWT will be listed on exchanges, where anyone can offer or buy tokens. In th
 [Coinmarketcap](http://coinmarketcap.com/assets/swarm-city/)
 
 
-### Contact us: support@swarm.city
+### If you didn't find the answer you were looking for Contact us: support@swarm.city
