@@ -12,6 +12,8 @@ This Medium article best describes the long term vision of the project [Unmistak
 
 <br>
 
+### Links to Official docs
+
 
 > [Token sale whitepaper](https://drive.google.com/file/d/0B9RSMdR2vWssV2JJX0t6dmN6SUk/view)
 
