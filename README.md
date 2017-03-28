@@ -45,7 +45,7 @@ Once done, you can always watch the SWT on your MyEtherWallet account as well as
 No, to exchange from ARC to SWT you will have paste to your private key from myether wallet to Terminal and use the exchange tool in Terminal. Once complete, you will be able to view your SWT on your MyEtherWallet account as well as in the Terminal.
 
 **How do I exchange ARC tokens purchased with the previously released ARC wallet?**
-Please visit https://swarm.city/ and follow the steps to import your ARC wallet into the Terminal. You will be guided through the token exchange process, which should only take a few minutes to execute.
+[Enter here]( https://swarm.city/) and follow the steps to import your ARC wallet into the Terminal. You will be guided through the token exchange process, which should only take a few minutes to execute.
 
 **Where can I view and store my SWT tokens after the exchange?**
 Upon entry to the Terminal, all users create a digital wallet. This wallet is used to view, store, send and receive the tokens you own.
@@ -77,7 +77,7 @@ You can also follow the progress of the project in the Swarm City Medium channel
 **I don't want SWT, how can I get an ether refund for what I spent buying ARC tokens?**
 We recommend exchanging your ARC tokens to the new SWT tokens. Only SWT will be accepted in the Swarm City ecosystem, so any ARC token holders who wish to interact with the Swarm City platform will need to exchange their ARC for SWT.
 We will not refund ether, but you can sell ARC token on this decentralized exchange: 
-https://etherdelta.github.io 
+[Etherdelta]() or [Bittrex]()
 
 **I missed the token sale, but I do want SWT, how can I buy tokens now?**
 The SWT will be listed on exchanges, where anyone can offer or buy tokens. In the more distant future, users can easily buy tokens from USD, EUR and other fiat currencies on our in-app exchange.
