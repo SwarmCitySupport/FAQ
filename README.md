@@ -9,7 +9,7 @@ This Medium article best describes the long term vision of the project [Unmistak
 
 <br>
 
----
+
 ## ARC to SWT Token Exchange
 ---
 
