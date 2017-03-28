@@ -2,7 +2,7 @@
 ---
 
 
-**What is the Swarm City's mission?**
+**What is the Swarm City mission?**
 The development goal of the of the Swarm City Decentralized App (DApp) is to provide users with the necessary tools to make Peer2Peer (P2P) interactions without a middleman world-wide. Users transact with whomever they choose, and privately negotiate the terms of the agreement. Users exchange a digital currency, referred to as the Swarm City Token (SWT), instead of fiat, thus creating a new economy using the Ethereum blockchain.
 
 **Can users use any form of payment?**
@@ -19,10 +19,10 @@ The best way to buy SWT is from an exchange.
 This Medium article best describes the long term vision of the project [Unmistakably Swarm City](https://press.swarm.city/unmistakably-swarm-city-9522606f88)
 
 **How do I join?**
-Visit [the Terminal](https://swarm.city) to create a user profile and a digital wallet. You can find other locals in the Swarm City [#needaride Facebook groups](https://swarmedup.com)
+Visit [the Terminal](https://swarm.city) to create a user profile and a digital wallet. You can also find other locals in the Swarm City [#needaride Facebook groups](https://swarmedup.com).
 
 **What types of services will users offer on the platform?**
-We will begin by featuring ridesharing alternatives, and move from there into other services, such as babysitting, dog walking, car repair, or anything that is requested, the otions are endless.
+We will begin by featuring ridesharing alternatives, and move from there into other services, such as Swarmbnb, babysitting, dog walking, car repair, or anything that is requested, the options are endless.
 
 
 <br>
