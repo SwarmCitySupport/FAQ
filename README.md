@@ -84,16 +84,19 @@ You can also follow the progress of the project in the Swarm City Medium channel
 
 **I don't want SWT, how can I get an ether refund for what I spent buying ARC tokens?**
 We recommend exchanging your ARC tokens to the new SWT tokens. Only SWT will be accepted in the Swarm City ecosystem, so any ARC token holders who wish to interact with the Swarm City platform will need to exchange their ARC for SWT.
-We will not refund ether, but you can sell ARC token on this decentralized exchange: 
-[Etherdelta]() or [Bittrex]()
+We will not refund ether, but you can sell ARC token one of these decentralized exchanges:
+> [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-SWT)
+[Etherdelta](https://etherdelta.github.io/#SWT-ETH)
+[CryptoDerivatives](https://cryptoderivatives.market/token/SWT)
+[Coinmarketcap](http://coinmarketcap.com/assets/swarm-city/)
+
 
 **I missed the token sale, but I do want SWT, how can I buy tokens now?**
 The SWT will be listed on exchanges, where anyone can offer or buy tokens. In the more distant future, users can easily buy tokens from USD, EUR and other fiat currencies on our in-app exchange.
-
-..> [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-SWT)
-..> [Etherdelta](https://etherdelta.github.io/#SWT-ETH)
-..> [CryptoDerivatives](https://cryptoderivatives.market/token/SWT)
-..> [Coinmarketcap](http://coinmarketcap.com/assets/swarm-city/)
+> [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-SWT)
+[Etherdelta](https://etherdelta.github.io/#SWT-ETH)
+[CryptoDerivatives](https://cryptoderivatives.market/token/SWT)
+[Coinmarketcap](http://coinmarketcap.com/assets/swarm-city/)
 
 
 Contact us: support@swarm.city
