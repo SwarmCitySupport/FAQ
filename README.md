@@ -1,10 +1,12 @@
 ## General Info
 ---
+
+
 **What is the Swarm City's mission?**
 The development goal of the of the Swarm City Decentralized App (DApp) is to provide users with the necessary tools to make Peer2Peer (P2P) interactions without a middleman world-wide. Users transact with whomever they choose, and privately negotiate the terms of the agreement. Users exchange a digital currency, referred to as the Swarm City Token (SWT), instead of fiat, thus creating a new economy using the Ethereum blockchain.
 
 **Can users use any form of payment?**
-No, Only SWT will be accepted in the Swarm City ecosystem, so any ARC token holders who wish to interact with the Swarm City platform will need to exchange their ARC for SWT.
+No, Only SWT will be accepted in the Swarm City ecosystem, so any ARC token holders who wish to interact with the Swarm City platform will need to exchange their ARC for SWT
 
 **How do I get SWT tokens to get started?**
 The best way to buy SWT is from an exchange.
@@ -13,18 +15,14 @@ The best way to buy SWT is from an exchange.
 [CryptoDerivatives](https://cryptoderivatives.market/token/SWT)
 [Coinmarketcap](http://coinmarketcap.com/assets/swarm-city/)
 
-
-
-
 **Where can I find the project roadmap?**
 This Medium article best describes the long term vision of the project [Unmistakably Swarm City](https://press.swarm.city/unmistakably-swarm-city-9522606f88)
 
+**How do I join?**
+Visit [the Terminal](https://swarm.city) to create a user profile and a digital wallet. You can find other locals in the Swarm City [#needaride Facebook groups](https://swarmedup.com)
 
-
-How do I join?
-Visit [the Terminal](https://swarm.city) to create a user profile and a digital wallet. 
-
-What types of services will users offer on the plstform?
+**What types of services will users offer on the platform?**
+We will begin by featuring ridesharing alternatives, and move from there into other services, such as babysitting, dog walking, car repair, or anything that is requested, the otions are endless.
 
 
 <br>
