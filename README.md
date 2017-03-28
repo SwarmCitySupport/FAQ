@@ -8,11 +8,7 @@
 
 > [Token exchange whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md)
 
-> [SWT contract]( https://etherscan.io/address/0xB9e7F8568e08d5659f5D29C4997173d84CdF2607)
-
-> [ARC-SWT Converter contract](https://etherscan.io/address/0x69e5da6904f73dfa845648e1991ad1dcc780f874#code)
-
-> [Swarm City token explorer](https://etherscan.io/token/0xB9e7F8568e08d5659f5D29C4997173d84CdF2607)
+> [Swarm City ERC-20 token](https://etherscan.io/token/0xB9e7F8568e08d5659f5D29C4997173d84CdF2607)
 
 
 <br>
