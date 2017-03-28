@@ -33,7 +33,7 @@ the ARC symbol was already in use by some other coins
 the current token contract cannot be renamed, so cannot follow the brand change
 
 **When can I start the exchange process?**
-You can start the exchange anytime when you [enter here]( https://swarm.city/)
+You can start the exchange anytime when you [Enter here]( https://swarm.city/)
 
 **Is there a time limit on exchanging ARC to SWT?**
 There is no time limit on performing the conversion. This functionality will be permanently available in our contract.
