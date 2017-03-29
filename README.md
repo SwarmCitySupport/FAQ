@@ -2,9 +2,6 @@
 ---
 
 
-**What is the Swarm City mission?**
-The development goal of the Swarm City Decentralized App (DApp) is to provide users with the necessary tools to make Peer2Peer (P2P) interactions without a middleman available world-wide. Users transact with whomever they choose, and privately negotiate the terms of the agreement. Users exchange a digital currency, referred to as the Swarm City Token (SWT), instead of fiat, thus creating a new economy using the Ethereum blockchain.
-
 **Is the Swarm City app open source?**
 Yes, and anyone can contribute on [Github](https://github.com/swarmcity)
 
