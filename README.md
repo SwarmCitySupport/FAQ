@@ -9,7 +9,7 @@ Question | Answer
 **How do I join?** | Visit [the Terminal](https://swarm.city) to create a user profile and a digital wallet. 
 **How do I find other locals?** | [#needaride Facebook groups](https://swarmedup.com) 
 **How do I get active in the community?** | [Slack](https://swarm-slack-invite.herokuapp.com/), [Twitter](https://twitter.com/SwarmCityDApp), [Medium](https://press.swarm.city/), [Github](https://github.com/swarmcity), [YouTube](https://www.youtube.com/channel/UCsHBWn_ytZ3xdMbTyYe5Ifg), [Facebook](https://www.facebook.com/groups/SwarmCity/), and any other place you think the swarm might have landed just search Swarm City
-**What types of services will users offer on the platform?** | We will begin by featuring ridesharing, and move from there into other services, such as Swarmbnb, babysitting, dog walking, car repair, or anything, the options are endless.
+**What types of services will users offer on the platform?** | We will begin by featuring ridesharing, and move from there into other services, such as Swarmbnb, babysitting, dog walking, car repair. 
 **Can users use any form of payment?** | No, only SWT will be accepted in the Swarm City ecosystem.
 
 
