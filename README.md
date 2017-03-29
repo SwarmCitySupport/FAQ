@@ -3,13 +3,13 @@
 
 
 **What is the Swarm City mission?**
-The development goal of the of the Swarm City Decentralized App (DApp) is to provide users with the necessary tools to make Peer2Peer (P2P) interactions without a middleman world-wide. Users transact with whomever they choose, and privately negotiate the terms of the agreement. Users exchange a digital currency, referred to as the Swarm City Token (SWT), instead of fiat, thus creating a new economy using the Ethereum blockchain.
+The development goal of the Swarm City Decentralized App (DApp) is to provide users with the necessary tools to make Peer2Peer (P2P) interactions without a middleman available world-wide. Users transact with whomever they choose, and privately negotiate the terms of the agreement. Users exchange a digital currency, referred to as the Swarm City Token (SWT), instead of fiat, thus creating a new economy using the Ethereum blockchain.
 
 **Is the Swarm City app open source?**
 Yes, and anyone can contribute on [Github](https://github.com/swarmcity)
 
 **Can users use any form of payment?**
-No, Only SWT will be accepted in the Swarm City ecosystem, so any ARC token holders who wish to interact with the Swarm City platform will need to exchange their ARC for SWT
+No, only SWT will be accepted in the Swarm City ecosystem, so any ARC token holders who wish to interact with the Swarm City platform will need to exchange their ARC for SWT
 
 **How do I get SWT tokens to get started?**
 The best way to buy SWT is from an exchange.
@@ -24,7 +24,7 @@ This Medium article best describes the long term vision of the project [Unmistak
 **How do I join?**
 -- Visit [the Terminal](https://swarm.city) to create a user profile and a digital wallet. 
 -- You can also find other locals in the Swarm City [#needaride Facebook groups](https://swarmedup.com)
--- Follow us on [Slack](https://swarm-slack-invite.herokuapp.com/), [Twitter](https://twitter.com/SwarmCityDApp), [Medium](https://press.swarm.city/), Github, YouTube, Facebook, and most any other place you think the swarm might have landed just search Swarm City
+-- Follow us on [Slack](https://swarm-slack-invite.herokuapp.com/), [Twitter](https://twitter.com/SwarmCityDApp), [Medium](https://press.swarm.city/), [Github](https://github.com/swarmcity), [YouTube](https://www.youtube.com/channel/UCsHBWn_ytZ3xdMbTyYe5Ifg), [Facebook](https://www.facebook.com/groups/SwarmCity/), and any other place you think the swarm might have landed just search Swarm City
 
 **What types of services will users offer on the platform?**
 We will begin by featuring ridesharing alternatives, and move from there into other services, such as Swarmbnb, babysitting, dog walking, car repair, or anything that is requested, the options are endless.
