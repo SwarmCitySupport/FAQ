@@ -3,13 +3,14 @@
 
 Question | Answer
 -------- | ------
-**Is the Swarm City app open source? Where can I see the code?** | Yes, contribute on [Github](https://github.com/swarmcity)
-**How do I get SWT tokens to get started?** | The best way to buy SWT is from an exchange. [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-SWT), [Etherdelta](https://etherdelta.github.io/#SWT-ETH), [CryptoDerivatives](https://cryptoderivatives.market/token/SWT), [Coinmarketcap](http://coinmarketcap.com/assets/swarm-city/)
+**Is the Swarm City app open source?** | Yes, contribute on [Github](https://github.com/swarmcity)
+**How do I get SWT tokens?** | The best way to buy SWT is from an exchange. [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-SWT), [Etherdelta](https://etherdelta.github.io/#SWT-ETH), [CryptoDerivatives](https://cryptoderivatives.market/token/SWT), [Coinmarketcap](http://coinmarketcap.com/assets/swarm-city/)
 **Where can I find the project roadmap?** | This Medium article best describes the long term vision of the project [Unmistakably Swarm City](https://press.swarm.city/unmistakably-swarm-city-9522606f88)
 **How do I join?** | Visit [the Terminal](https://swarm.city) to create a user profile and a digital wallet. 
 **How do I find other locals?** | [#needaride Facebook groups](https://swarmedup.com) 
 **How do I get active in the community?** | [Slack](https://swarm-slack-invite.herokuapp.com/), [Twitter](https://twitter.com/SwarmCityDApp), [Medium](https://press.swarm.city/), [Github](https://github.com/swarmcity), [YouTube](https://www.youtube.com/channel/UCsHBWn_ytZ3xdMbTyYe5Ifg), [Facebook](https://www.facebook.com/groups/SwarmCity/), and any other place you think the swarm might have landed just search Swarm City
-**What types of services will users offer on the platform?** | We will begin by featuring ridesharing alternatives, and move from there into other services, such as Swarmbnb, babysitting, dog walking, car repair, or anything that is requested, the options are endless.
+**What types of services will users offer on the platform?** | We will begin by featuring ridesharing alternatives, and move from there into other services, such as Swarmbnb, babysitting, dog walking, car repair, or anything, the options are endless.
+**Can users use any form of payment?** | No, only SWT will be accepted in the Swarm City ecosystem.
 
 
 
