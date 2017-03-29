@@ -3,8 +3,7 @@
 
 Question | Answer
 -------- | ------
-**Is the Swarm City app open source? Where can I see the code?** | Yes, and anyone can contribute on [Github](https://github.com/swarmcity)
-**Can users use any form of payment?** | No, only SWT will be accepted in the Swarm City ecosystem. Any ARC token holders who wish to interact with the Swarm City platform will need to exchange their ARC for SWT
+**Is the Swarm City app open source? Where can I see the code?** | Yes, contribute on [Github](https://github.com/swarmcity)
 **How do I get SWT tokens to get started?** | The best way to buy SWT is from an exchange. [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-SWT), [Etherdelta](https://etherdelta.github.io/#SWT-ETH), [CryptoDerivatives](https://cryptoderivatives.market/token/SWT), [Coinmarketcap](http://coinmarketcap.com/assets/swarm-city/)
 **Where can I find the project roadmap?** | This Medium article best describes the long term vision of the project [Unmistakably Swarm City](https://press.swarm.city/unmistakably-swarm-city-9522606f88)
 **How do I join?** | Visit [the Terminal](https://swarm.city) to create a user profile and a digital wallet. 
