@@ -3,7 +3,7 @@
 
 Question | Answer
 -------- | ------
-**Is the Swarm City app open source?** | Yes, contribute on [Github](https://github.com/swarmcity)
+**Is the Swarm City app open source?** | Yes, anyone can conytibute @ [Github](https://github.com/swarmcity)
 **How do I get SWT tokens?** | The best way to buy SWT is from an exchange. [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-SWT), [Etherdelta](https://etherdelta.github.io/#SWT-ETH), [CryptoDerivatives](https://cryptoderivatives.market/token/SWT), [Coinmarketcap](http://coinmarketcap.com/assets/swarm-city/)
 **Where can I find the project roadmap?** | This Medium article best describes the long term vision of the project [Unmistakably Swarm City](https://press.swarm.city/unmistakably-swarm-city-9522606f88)
 **How do I join?** | Visit [the Terminal](https://swarm.city) to create a user profile and a digital wallet. 
