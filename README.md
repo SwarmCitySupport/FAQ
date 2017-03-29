@@ -1,12 +1,11 @@
 ## General Info
 ---
 
+Question | Answer
+-------- | ------
+**Is the Swarm City app open source?** | Yes, and anyone can contribute on [Github](https://github.com/swarmcity)
 
-**Is the Swarm City app open source?**
-Yes, and anyone can contribute on [Github](https://github.com/swarmcity)
-
-**Can users use any form of payment?**
-No, only SWT will be accepted in the Swarm City ecosystem, so any ARC token holders who wish to interact with the Swarm City platform will need to exchange their ARC for SWT
+**Can users use any form of payment?** | No, only SWT will be accepted in the Swarm City ecosystem, so any ARC token holders who wish to interact with the Swarm City platform will need to exchange their ARC for SWT
 
 **How do I get SWT tokens to get started?**
 The best way to buy SWT is from an exchange.
