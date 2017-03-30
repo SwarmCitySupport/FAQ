@@ -10,7 +10,8 @@ updated on March 29
 
 Question | Brief Answer
 -------- | ------------
-**Is the Swarm City app ready to use for ridesharing?** | No, that feature will be available in the Boardwalk release, coming soon. At this time, you can use the Terminal to create a profile, exchange ARC to SWT, and send/receive SWT
+**Is the Swarm City app ready to use for ridesharing?** | No, that feature will be available in the Boardwalk release, coming soon. At this time, you can use [the Terminal](https://swarm.city) to create a profile, exchange ARC to SWT, and send/receive SWT
+**How are people using Swarm City for ridesharing before it's availble in the app?** | Join your local Facebook [Swarm City #needaride](https://swarmedup.com/needaride/) group. Post the hashtag #needaride and get to know others in your area. One of your peers will respond to your post. The 2 parties can negotiate the rest.
 **Is the Swarm City app open source?** | Yes, anyone can conytibute @ [Github](https://github.com/swarmcity)
 **How do I get SWT tokens?** | The best way to buy SWT is from an exchange. [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-SWT), [Etherdelta](https://etherdelta.github.io/#SWT-ETH), [CryptoDerivatives](https://cryptoderivatives.market/token/SWT), [Coinmarketcap](http://coinmarketcap.com/assets/swarm-city/)
 **Where can I find the project roadmap?** | This Medium article best describes the long term vision of the project [Unmistakably Swarm City](https://press.swarm.city/unmistakably-swarm-city-9522606f88)
