@@ -62,12 +62,21 @@ the current token contract cannot be renamed, so cannot follow the brand change
     You can start the exchange anytime. [enter here]( https://swarm.city/)    
 
 
+<br>
+
+
     Is there a time limit on exchanging ARC to SWT?
     There is no time limit on performing the conversion. This functionality will be permanently available in our contract.
 
-   
+
+<br>
+ 
+ 
     What is the exchange rate?
     This is a 1:1 token exchange. 
+
+
+<br>
 
 
 ---
@@ -108,7 +117,7 @@ No, to exchange from ARC to SWT you will have paste to your private key from mye
 
 **How many SWT tokens will be minted?**
 
-The total number of SWT in circulation will be determined by how many ARC tokens get converted to SWT. If only 5,000,000 ARC tokens are converted into SWT, there will only be 5,000,000 SWT tokens in circulation.
+    The total number of SWT in circulation will be determined by how many ARC tokens get converted to SWT. If only 5,000,000 ARC tokens are converted into SWT, there will only be 5,000,000 SWT tokens in circulation.
 Most notably there will be no extra tokens minted. A total of 9,525,397.921984591306133876 ARC tokens were minted, so at most only 9,525,397 SWT can ever be minted. This number includes the 16% tokens minted in addition to the ARC token sale.
 
 **Will there be a Swarm City ICO?**
