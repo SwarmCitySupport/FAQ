@@ -12,10 +12,11 @@ Question | Brief Answer
 -------- | ------------
 **Is the Swarm City app ready to use for ridesharing?** | No, that feature will be available in the Boardwalk release, coming soon. At this time, you can use [the Terminal](https://swarm.city) to create a profile, exchange ARC to SWT, and send/receive SWT
 **How are people using Swarm City for ridesharing before it's available in the app?** | Join your local Facebook [Swarm City #needaride](https://swarmedup.com/needaride/) group. Post #needaride and meet others in your area. One of your peers will respond to the post. The 2 parties can negotiate the rest. #done
-**Will the Swarm City app be downloadable in the playstore?** | No, we have decided against listing the Swarm City DApp in the Google or Apple playstores. We are creating a decentralized app we do not want to create limitations to suit Google or Apple qualifications.
-**what is a DApp?** | 
-**Is the Swarm City app open source?** | Yes, anyone can conytibute @ [Github](https://github.com/swarmcity)
-**How do I get SWT tokens?** | The best way to buy SWT is from an exchange. [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-SWT), [Etherdelta](https://etherdelta.github.io/#SWT-ETH), [CryptoDerivatives](https://cryptoderivatives.market/token/SWT), [Coinmarketcap](http://coinmarketcap.com/assets/swarm-city/)
+**Will the Swarm City app be downloadable in the playstore?** | No, we have decided against listing the Swarm City dapp in the Google or Apple playstores. We are creating a decentralized app, we do not want to create limitations to suit Google or Apple qualifications.
+**What is a dapp?** | Decentralized apps (dapps) are a new type of software program designed to exist on the Internet in a way that is not controlled by any single entity.
+**Is the Swarm City dapp open source?** | Yes, anyone can conytibute @ [Github](https://github.com/swarmcity)
+**How do I get SWT tokens?** | The best way to buy SWT is from an exchange. [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-SWT), [Etherdelta](https://etherdelta.github.io/#SWT-ETH), [CryptoDerivatives](https://cryptoderivatives.market/token/SWT)
+**Where can I check the current value of SWT?** | [Coinmarketcap](http://coinmarketcap.com/assets/swarm-city/)
 **Where can I find the project roadmap?** | This Medium article best describes the long term vision of the project [Unmistakably Swarm City](https://press.swarm.city/unmistakably-swarm-city-9522606f88)
 **How do I join?** | Visit [the Terminal](https://swarm.city) to create a user profile and a digital wallet. 
 **How do I find other locals?** | Facebook [Swarm City #needaride](https://www.swarmedup.com/needaride/) groups
