@@ -33,7 +33,7 @@ Question | Brief Answer
 ## ARC to SWT Token Exchange
 ---
 
-### Links to official docs
+### SWT links
 
 
 > [Token sale whitepaper](https://drive.google.com/file/d/0B9RSMdR2vWssV2JJX0t6dmN6SUk/view)
