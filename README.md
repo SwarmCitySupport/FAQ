@@ -1,5 +1,5 @@
 updated on March 29
-> which format to you prefer? table or list
+> which format to you prefer? table, list, or code blocks
 
 > Create an issue with your response.
 > ALL feedback is appreciated!
@@ -37,10 +37,8 @@ Question | Brief Answer
 
 
 > [Token sale whitepaper](https://drive.google.com/file/d/0B9RSMdR2vWssV2JJX0t6dmN6SUk/view)
-
-> [Token exchange whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md)
-
-> [SWT ERC-20 token contract](https://etherscan.io/token/0xB9e7F8568e08d5659f5D29C4997173d84CdF2607)
+[Token exchange whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md)
+[SWT ERC-20 token contract](https://etherscan.io/token/0xB9e7F8568e08d5659f5D29C4997173d84CdF2607)
 
 
 <br>
@@ -61,7 +59,7 @@ the ARC symbol was already in use by some other coins
 the current token contract cannot be renamed, so cannot follow the brand change
 
     When can I start the exchange process?
-    You can start the exchange anytime when you [enter here]( https://swarm.city/)    
+    You can start the exchange anytime. [enter here]( https://swarm.city/)    
 
 
     Is there a time limit on exchanging ARC to SWT?
@@ -70,6 +68,7 @@ the current token contract cannot be renamed, so cannot follow the brand change
    
     What is the exchange rate?
     This is a 1:1 token exchange. 
+
 
 ---
 **Where do I go to exchange my previously purchased ARC for SWT tokens?**
