@@ -61,15 +61,15 @@ the ARC symbol was already in use by some other coins
 the current token contract cannot be renamed, so cannot follow the brand change
 
     When can I start the exchange process?
-You can start the exchange anytime when you [enter here]( https://swarm.city/)    
+    You can start the exchange anytime when you [enter here]( https://swarm.city/)    
+
 
     Is there a time limit on exchanging ARC to SWT?
+    There is no time limit on performing the conversion. This functionality will be permanently available in our contract.
 
-There is no time limit on performing the conversion. This functionality will be permanently available in our contract.
-
+   
     What is the exchange rate?
-
-This is a 1:1 token exchange. 
+    This is a 1:1 token exchange. 
 
 ---
 **Where do I go to exchange my previously purchased ARC for SWT tokens?**
@@ -79,8 +79,7 @@ You will start the exchange by going to the Swarm City Terminal,[enter here]( ht
 ---
 **How do I exchange the ARC tokens that are in MyEtherWallet?**
 
-You will need to import your MyEtherWallet to the Terminal by pasting the private key. You will be guided through the token exchange process, which should only take a few minutes to execute.
-Once done, you can always watch the SWT on your MyEtherWallet account as well as in the Terminal.
+You will need to import your MyEtherWallet to the Terminal by pasting the private key. You will be guided through the token exchange process, which should only take a few minutes to execute. Once done, you can always watch the SWT on your MyEtherWallet account as well as in the Terminal.
 
 ---
 **Can I send ARC directly from MyEtherWallet to the SWT contract?**
@@ -94,19 +93,19 @@ No, to exchange from ARC to SWT you will have paste to your private key from mye
 
 **Where can I view and store my SWT tokens after the exchange?**
 
-Upon entry to the Terminal, all users create a digital wallet. This wallet is used to view, store, send and receive the tokens you own.
+    Upon entry to the Terminal, all users create a digital wallet. This wallet is used to view, store, send and receive the tokens you own.
 
 **When/How can I use my SWT tokens?**
 
-The Swarm City token (SWT) has been created to function within the Swarm City environment. SWT tokens will be exchanged as the only form of payment within the app. 
+    The Swarm City token (SWT) has been created to function within the Swarm City environment. SWT tokens will be exchanged as the only form of payment within the app. 
 
 **How can I trade SWT tokens with other users?**
 
-The SWT will be listed on exchanges, where anyone can offer or buy tokens. In the more distant future, users can easily buy tokens from USD, EUR and other fiat currencies on our in-app exchange.
+    The SWT will be listed on exchanges, where anyone can offer or buy tokens. In the more distant future, users can easily buy tokens from USD, EUR and other fiat currencies on our in-app exchange.
 
 **Can I mine SWT tokens?**
 
-No, you can't mine SWT tokens.  
+    No, you can't mine SWT tokens.  
 
 **How many SWT tokens will be minted?**
 
