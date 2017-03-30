@@ -1,7 +1,7 @@
 updated on March 29
 > which format to you prefer? table or list
-create an issue with your response
-ALL feedback is appreciated!
+> Create an issue with your response.
+> ALL feedback is appreciated!
 
 
 ## General Info
