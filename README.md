@@ -1,5 +1,5 @@
 updated on March 29
-> which format to you prefer? table, list, or code blocks
+> which format to you prefer? table, list, line breaks or code blocks
 
 > Create an issue with your response.
 > ALL feedback is appreciated!
