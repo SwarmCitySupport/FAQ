@@ -16,7 +16,7 @@ Question | Brief Answer
 **What is a dapp?** | Decentralized apps (dapps) are a new type of software program designed to exist on the Internet in a way that is not controlled by any single entity.
 **Is the Swarm City dapp open source?** | Yes, Swarm City is an open-source P2P web application platform, providing decentralized, privacy-preserving software which keeps users in control of their own content. [Github](https://github.com/swarmcity)
 **How do I get SWT tokens?** | The best way to buy SWT is from an exchange. [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-SWT), [Etherdelta](https://etherdelta.github.io/#SWT-ETH), [CryptoDerivatives](https://cryptoderivatives.market/token/SWT)
-**How can I view my SWT using etherscan?** | Go to the [SWT ERC 20 contract](https://etherscan.io/token/0xB9e7F8568e08d5659f5D29C4997173d84CdF2607) > Filter by: "add your SWT wallet public address > APPLY
+**How can I view my SWT balance using etherscan?** | Go to the [SWT ERC 20 contract](https://etherscan.io/token/0xB9e7F8568e08d5659f5D29C4997173d84CdF2607) > Filter by: "add your SWT wallet public address > APPLY
 **Where can I check the current value of SWT?** | [Coinmarketcap](http://coinmarketcap.com/assets/swarm-city/)
 **Where can I find the project roadmap?** | This Medium article best describes the long term vision of the project [Unmistakably Swarm City](https://press.swarm.city/unmistakably-swarm-city-9522606f88)
 **How do I join?** | Visit [the Terminal](https://swarm.city) to create a user profile and a digital wallet. 
