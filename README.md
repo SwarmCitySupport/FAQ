@@ -41,7 +41,7 @@ Question | Answer
 <br>
 
 Question | Answer 
--------- | ----------
+-------- | ------
 **What is a Swarm City Token (SWT)?** | The SWT is a utility to pay for transactions in the Swarm City ecosystem
 **Why do I need to exchange tokens?** | For the benefit of this project it was necessary to fork the brand from Arcade City to Swarm City. However, we wanted to make sure the brand fork did not impact Arcade City token owners. The last step to completing our rebranding process is upgrading our token to ‘Swarm City Token’ (SWT)
 **What can I use SWT for?** | The Swarm City Ecosystem will run on SWT
@@ -50,7 +50,7 @@ the current token contract cannot be renamed, so cannot follow the brand change
 **When can I start the exchange process?** | You can start the exchange anytime. [enter here]( https://swarm.city/)    
 **Is there a time limit on exchanging ARC to SWT?** | There is no time limit on performing the conversion. This functionality will be permanently available in our contract
 **What is the exchange rate?** | This is a 1:1 token exchange
-**Where do I go to exchange my previously purchased ARC for SWT tokens?** | You will start the exchange by going to the Swarm City Terminal,[enter here]( https://swarm.city)
+**Where do I go to exchange my previously purchased ARC for SWT tokens?** | You will start the exchange by going to the Swarm City Terminal, [enter here]( https://swarm.city)
 **How do I exchange the ARC tokens that are in MyEtherWallet?** | You will need to import your MyEtherWallet to the Terminal by pasting the private key. You will be guided through the token exchange process, which should only take a few minutes to execute. Once done, you can always watch the SWT on your MyEtherWallet account as well as in the Terminal
 **Can I send ARC directly from MyEtherWallet to the SWT contract?** | No, to exchange from ARC to SWT you will have paste to your private key from myether wallet to Terminal and use the exchange tool in Terminal. Once complete, you will be able to view your SWT on your MyEtherWallet account as well as in the Terminal
 **How do I exchange ARC tokens purchased with the previously released ARC wallet?** | [Enter here]( https://swarm.city/) and follow the steps to import your ARC wallet into the Terminal. You will be guided through the token exchange process, which should only take a few minutes to execute
