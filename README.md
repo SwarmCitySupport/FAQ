@@ -45,7 +45,7 @@ Question | Answer
 **What is a Swarm City Token (SWT)?** | The SWT is a utility to pay for transactions in the Swarm City ecosystem
 **Why do I need to exchange tokens?** | For the benefit of this project it was necessary to fork the brand from Arcade City to Swarm City. However, we wanted to make sure the brand fork did not impact Arcade City token owners. The last step to completing our rebranding process is upgrading our token to ‘Swarm City Token’ (SWT)
 **What can I use SWT for?** | The Swarm City Ecosystem will run on SWT
-**Why the brand fork?** | There are 2 key reasons for the brand fork: the ARC symbol was already in use by some other coins
+**Why the brand fork?** | There are 2 key reasons for the brand fork, the ARC symbol was already in use by some other coins
 the current token contract cannot be renamed, so cannot follow the brand change
 **When can I start the exchange process?** | You can start the exchange anytime. [enter here]( https://swarm.city/)    
 **Is there a time limit on exchanging ARC to SWT?** | There is no time limit on performing the conversion. This functionality will be permanently available in our contract
