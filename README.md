@@ -43,8 +43,7 @@ Question | Answer
 Question | Answer 
 -------- | ----------
 **What is a Swarm City Token (SWT)?** | The SWT is a utility to pay for transactions in the Swarm City ecosystem
-**Why do I need to exchange tokens?** | For the benefit of this project it was necessary to fork the brand from Arcade City to Swarm City. However, we wanted to make sure the brand fork did not impact Arcade City token owners 
-The last step to completing our rebranding process is upgrading our token to ‘Swarm City Token’ (SWT).
+**Why do I need to exchange tokens?** | For the benefit of this project it was necessary to fork the brand from Arcade City to Swarm City. However, we wanted to make sure the brand fork did not impact Arcade City token owners. The last step to completing our rebranding process is upgrading our token to ‘Swarm City Token’ (SWT)
 **What can I use SWT for?** | The Swarm City Ecosystem will run on SWT
 **Why the brand fork?** | There are 2 key reasons for the brand fork: the ARC symbol was already in use by some other coins
 the current token contract cannot be renamed, so cannot follow the brand change
@@ -63,14 +62,8 @@ the current token contract cannot be renamed, so cannot follow the brand change
 **Will there be a Swarm City ICO?** | No, there will not be a Swarm City ICO. The amount of SWT created through the token exchange will be the maximum ever created
 **What happens to ARC tokens that are exchanged for SWT?** | The ARC tokens will be destroyed immediately by being sent to a burning address 0x0000000000000000000000000000000000000000
 **What happens with the Ether that was raised through the Arcade City token sale?** | We have brand forked, but we are still actively developing the product as described in the token sale Whitepaper. Therefore, we will continue to use the ether for building the sharing economy platform. You can also follow the progress of the project in the Swarm City Medium channel.
-**I don't want SWT, how can I get an ether refund for what I spent buying ARC tokens?** | We recommend exchanging your ARC tokens to the new SWT tokens. Only SWT will be accepted in the Swarm City ecosystem, so any ARC token holders who wish to interact with the Swarm City platform will need to exchange their ARC for SWT. We will not refund ether, but you can sell ARC token one of these decentralized exchanges: [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-SWT)
-[Etherdelta](https://etherdelta.github.io/#SWT-ETH)
-[CryptoDerivatives](https://cryptoderivatives.market/token/SWT)
-[Coinmarketcap](http://coinmarketcap.com/assets/swarm-city/)
-**I missed the token sale, but I do want SWT, how can I buy tokens now?** | The SWT will be listed on exchanges, where anyone can offer or buy tokens. In the more distant future, users can easily buy tokens from USD, EUR and other fiat currencies on our in-app exchange. [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-SWT)
-[Etherdelta](https://etherdelta.github.io/#SWT-ETH)
-[CryptoDerivatives](https://cryptoderivatives.market/token/SWT)
-[Coinmarketcap](http://coinmarketcap.com/assets/swarm-city/)
+**I don't want SWT, how can I get an ether refund for what I spent buying ARC tokens?** | We recommend exchanging your ARC tokens to the new SWT tokens. Only SWT will be accepted in the Swarm City ecosystem, so any ARC token holders who wish to interact with the Swarm City platform will need to exchange their ARC for SWT. We will not refund ether, but you can sell ARC token one of these decentralized exchanges: [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-SWT), [Etherdelta](https://etherdelta.github.io/#SWT-ETH), [CryptoDerivatives](https://cryptoderivatives.market/token/SWT), [Coinmarketcap](http://coinmarketcap.com/assets/swarm-city/)
+**I missed the token sale, but I do want SWT, how can I buy tokens now?** | The SWT will be listed on exchanges, where anyone can offer or buy tokens. In the more distant future, users can easily buy tokens from USD, EUR and other fiat currencies on our in-app exchange. [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-SWT), [Etherdelta](https://etherdelta.github.io/#SWT-ETH), [CryptoDerivatives](https://cryptoderivatives.market/token/SWT), [Coinmarketcap](http://coinmarketcap.com/assets/swarm-city/)
 
 
 ### If you didn't find the answer you were looking for Contact us: support@swarm.city
