@@ -1,8 +1,4 @@
-updated on March 29
-> which format to you prefer? table, list, line breaks or code blocks
-
-> Create an issue with your response.
-> ALL feedback is appreciated!
+# Swarm City FAQ
 
 
 ## General Info
@@ -34,7 +30,7 @@ Question | Answer
 ## ARC to SWT Token Exchange
 ---
 
-### SWT links
+### SWT contract links
 
 
 > [Token sale whitepaper](https://drive.google.com/file/d/0B9RSMdR2vWssV2JJX0t6dmN6SUk/view)
