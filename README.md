@@ -9,7 +9,7 @@
 
 Question | Answer
 -------- | ------------
-**Is the Swarm City app ready to use for ridesharing?** | No, that feature will be available in the Boardwalk release, coming soon. At this time, you can use [the Terminal](https://swarm.city) to create a profile, exchange ARC to SWT, and send/receive SWT
+**Is the Swarm City app ready to use for ridesharing?** | No, that feature will be available in the second release, Boardwalk, coming soon. At this time, you can use [the Terminal](https://swarm.city) to create a profile, exchange ARC to SWT, and send/receive SWT
 **How are people using Swarm City for ridesharing before it's available in the app?** | Join your local Facebook [Swarm City #needaride](https://swarmedup.com/needaride/) group. Post #needaride and meet others in your area. One of your peers will respond to the post. The 2 parties can negotiate the rest, #done
 **Will the Swarm City app be downloadable in the playstore?** | No, we have decided against listing the Swarm City dapp in the Google or Apple playstores. We are creating a decentralized app, we do not want to create limitations to suit Google or Apple guidelines
 **What is a dapp?** | Decentralized apps (dapps) are a new type of software program designed to exist on the Internet in a way that is not controlled by any single entity
