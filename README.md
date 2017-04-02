@@ -22,7 +22,7 @@ Question | Answer
 **How do I find other locals?** | Facebook [Swarm City #needaride](https://www.swarmedup.com/needaride/) groups
 **How do I get active in the community?** | [Slack](https://swarm-slack-invite.herokuapp.com/), [Twitter](https://twitter.com/SwarmCityDApp), [Medium](https://press.swarm.city/), [Github](https://github.com/swarmcity), [YouTube](https://www.youtube.com/channel/UCsHBWn_ytZ3xdMbTyYe5Ifg), [Facebook](https://www.facebook.com/groups/SwarmCity/), and any other place you think the swarm might have landed just search Swarm City
 **What types of services will be offered on the platform?** | We will begin by featuring ridesharing, and move from there into other services, such as Swarmbnb, babysitting, dog walking, car repair
-**Can users use any form of payment?** | No, only SWT will be accepted in the Swarm City ecosystem
+**Can users use any form of payment?** | Yes and No, only SWT will be accepted in the Swarm City ecosystem. Users can start the transaction with any form of payment, and it will be automatically converted to SWT to complete the transaction.
 **Where can I access the official logo files?** | Github [swarm.city branding](https://github.com/swarmcity/branding.git)
 
 
