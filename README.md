@@ -1,7 +1,9 @@
-# Swarm City FAQ
+# Swarm City FAQ  
+---
 
-### General Questions
+### General Questions  
 
+<br>
 
 Question | Answer
 -------- | ------------
@@ -27,11 +29,12 @@ Question | Answer
 
 
 ## ARC to SWT Token Exchange
+---  
+
+<br>
 
 
-### SWT contract links
-
-
+### SWT contract links  
 > [Token sale whitepaper](https://drive.google.com/file/d/0B9RSMdR2vWssV2JJX0t6dmN6SUk/view)
 [Token exchange whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md)
 [SWT ERC-20 token contract](https://etherscan.io/token/0xB9e7F8568e08d5659f5D29C4997173d84CdF2607)
