@@ -28,20 +28,12 @@ Question | Answer
 <br>
 
 
-## ARC to SWT Token Exchange
+### ARC to SWT Token Exchange
 ---  
 
-<br>
-
-
 ### SWT contract links  
-> [Token sale whitepaper](https://drive.google.com/file/d/0B9RSMdR2vWssV2JJX0t6dmN6SUk/view)
-[Token exchange whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md)
-[SWT ERC-20 token contract](https://etherscan.io/token/0xB9e7F8568e08d5659f5D29C4997173d84CdF2607)
-
 
 <br>
-
 
 Question | Answer 
 -------- | ------
@@ -67,6 +59,9 @@ Question | Answer
 <a id="swtRaisedEther" href="#swtRaisedEther"><b>What happens with the Ether that was raised through the Arcade City token sale?</b></a> | We have brand forked, but we are still actively developing the product as described in the token sale Whitepaper. Therefore, we will continue to use the ether for building the sharing economy platform. You can also follow the progress of the project in the Swarm City Medium channel.
 <a id="swtRefund" href="#swtRefund"><b>I don't want SWT, how can I get an ether refund for what I spent buying ARC tokens?</b></a> | We recommend exchanging your ARC tokens to the new SWT tokens. Only SWT will be accepted in the Swarm City ecosystem, so any ARC token holders who wish to interact with the Swarm City platform will need to exchange their ARC for SWT. We will not refund ether, but you can sell ARC token one of these decentralized exchanges: [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-SWT), [Etherdelta](https://etherdelta.github.io/#SWT-ETH), [CryptoDerivatives](https://cryptoderivatives.market/token/SWT), [Coinmarketcap](http://coinmarketcap.com/assets/swarm-city/)
 <a id="swtMissedTokenSale" href="#swtMissedTokenSale"><b>I missed the token sale, but I do want SWT, how can I buy tokens now?</b></a> | The SWT will be listed on exchanges, where anyone can offer or buy tokens. In the more distant future, users can easily buy tokens from USD, EUR and other fiat currencies on our in-app exchange. [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-SWT), [Etherdelta](https://etherdelta.github.io/#SWT-ETH), [CryptoDerivatives](https://cryptoderivatives.market/token/SWT), [Coinmarketcap](http://coinmarketcap.com/assets/swarm-city/)
+<a id="whitepaper" href="#whitepaper"><b>Where can I view the original project whitepaper? | [Token sale whitepaper](https://drive.google.com/file/d/0B9RSMdR2vWssV2JJX0t6dmN6SUk/view) - November 1, 2016
+<a id="tokenexchange" href="#tokenexchange"><b>Is there a more technical updated whitepaper? | [Token exchange whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md)
+<a id="tokencontract" href="#tokencontract">How do I view the ERC-20 token contract? | [SWT ERC-20 token contract](https://etherscan.io/token/0xB9e7F8568e08d5659f5D29C4997173d84CdF2607)
 
 
 ### If you didn't find the answer you were looking for Contact us: support@swarm.city
