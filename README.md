@@ -23,15 +23,10 @@ Question | Answer
 <a id="whichPaymentAvailable" href="#whichPaymentAvailable"><b>Can users use any form of payment?</b></a> | Yes and no. Only SWT will be exchanged in the Swarm City ecosystem. However, users can start the transaction with any form of payment, and it will be automatically converted to SWT to complete the transaction behind the scenes. 
 <a id="mediaFiles" href="#mediaFiles"><b>Where can I access the official logo files?</b></a> | Github [swarm.city branding](https://github.com/swarmcity/branding.git)
 
-
-
 <br>
 
-
 ### ARC to SWT Token Exchange
----  
-
-### SWT contract links  
+---    
 
 <br>
 
