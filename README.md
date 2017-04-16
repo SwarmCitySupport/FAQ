@@ -59,4 +59,4 @@ Question | Answer
 <a id="tokencontract" href="#tokencontract"><b>How do I view the ERC-20 token contract?</b></a> | Visit Etherscan to monitor the [SWT ERC-20 token contract](https://etherscan.io/token/0xB9e7F8568e08d5659f5D29C4997173d84CdF2607) 
 
 
-### If you didn't find the answer you were looking for Contact us: support@swarm.city
+### If you didn't find the answer you were looking for contact us at support@swarm.city
