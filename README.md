@@ -32,8 +32,8 @@ Question | Answer
 
 Question | Answer 
 -------- | ------
-<a id="whatIsSWT" href="#whatIsSWT"><b>What is a Swarm City Token (SWT)?</b></a> | The SWT is a utility to pay for transactions in the Swarm City ecosystem
-<a id="whyExchange" href="#whyExchange"><b>Why do I need to exchange tokens?</b></a> | For the benefit of this project it was necessary to fork the brand from Arcade City to Swarm City. However, we wanted to make sure the brand fork did not impact Arcade City token owners. The last step to completing our rebranding process is upgrading our token to ‘Swarm City Token’ (SWT)
+<a id="whatIsSWT" href="#whatIsSWT"><b>What is a Swarm City Token (SWT)?</b></a> | The SWT is a utility token used to pay for transactions in the Swarm City ecosystem 
+<a id="whyExchange" href="#whyExchange"><b>Why do I need to exchange tokens?</b></a> | For the benefit of this project it was necessary to fork the brand from Arcade City to Swarm City. However, we wanted to make sure the brand fork did not impact Arcade City token owners. The last step to completing our rebranding process is upgrading our token to the ‘Swarm City Token’ (SWT)
 <a id="whatIsSWTfor" href="#whatIsSWTfor"><b>What can I use SWT for?</b></a> | The Swarm City ecosystem will run on SWT
 <a id="whyBrandFork" href="#whyBrandFork"><b>Why the brand fork?</b></a> | There are 2 key reasons for the brand fork, the ARC symbol was already in use by some other coins and the previous token contract cannot be renamed and would not have suited the new branding
 <a id="arc2swtStartExchangeProcess" href="#arc2swtStartExchangeProcess"><b>When can I start the exchange process?</b></a> | You can start the exchange anytime, [enter here]( https://swarm.city/)    
