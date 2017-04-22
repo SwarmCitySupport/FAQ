@@ -93,6 +93,6 @@ Question | Answer
 * ##### When will the Swarm City DApp be released?
   * It is already available [ https://swarm.city ]. We are close to a MVP status. Which means it will be usable with the minimum set of functions that are needed. After that we improve and enhance the product so that it gets really smooth, neat and easy to use. 
   
-* ##### Are there more FAQ about Swarm City?
-  * Sure! Visit [Swarm City Support FAQ](https://swarmcitysupport.github.io/FAQ/)
+
+
 ### If you didn't find the answer you are looking for contact us at support@swarm.city
