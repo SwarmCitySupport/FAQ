@@ -3,11 +3,11 @@
 
 ### General Questions  
 
-<br>
 
 Question | Answer
 -------- | ------------
-<a id="ridesharing" href="https://queenbeesc.github.io/swarm.city-Terminal/"><b>Is the Swarm City app ready to use for ridesharing?</b></a> | No, that feature will be available in the second release, Boardwalk, coming soon. At this time, you can use [the Terminal](https://swarm.city) to create a profile, exchange ARC to SWT, and send/receive SWT
+<a id="ridesharing" href="https://queenbeesc.github.io/swarm.city-Terminal/"><b>
+<a id="ridesharing" href=""><b>Who is behind the Swarm City project?</b></a> | Is the Swarm City app ready to use for ridesharing?</b></a> | No, that feature will be available in the second release, Boardwalk, coming soon. At this time, you can use [the Terminal](https://swarm.city) to create a profile, exchange ARC to SWT, and send/receive SWT
 <a id="beforeApp" href="https://queenbeesc.github.io/NeedARide/"><b>How are people using Swarm City for ridesharing before it's available in the app?</b></a> | Join your local Facebook [Swarm City #needaride](https://queenbeesc.github.io/NeedARide/) group. Post #needaride and meet others in your area. One of your peers will respond to the post. The 2 parties can negotiate the rest, #done
 <a id="playStore" href="#playStore"><b>Will the Swarm City app be downloadable in the playstore?</b></a> | No, we have decided against listing the Swarm City app in the Google or Apple playstores. We are creating a Decentralized App (DApp), we do not want to create limitations to suit Google or Apple guidelines. 
 <a id="whatsaDapp" href="#whatsaDapp"><b>What is a DApp?</b></a> | Decentralized Apps (DApps) are a new type of software program designed to exist on the Internet in a way that is not controlled by any single entity. No central servers, no data collection.
@@ -25,7 +25,7 @@ Question | Answer
 
 <br>
 
-### ARC to SWT Exchange
+### Convert ARC to SWT
 ---    
 
 <br>
@@ -59,4 +59,40 @@ Question | Answer
 <a id="tokencontract" href="#tokencontract"><b>How do I view the ERC-20 token contract?</b></a> | Visit Etherscan to monitor the [SWT ERC-20 token contract](https://etherscan.io/token/0xB9e7F8568e08d5659f5D29C4997173d84CdF2607) 
 
 
+
+* ##### Who is behind the Swarm City project? 
+  * [Team](https://getactivein.swarm.city/)  
+  * [Advisors](https://advisors.swarm.city/)
+  
+* ##### Where are the funds from the tokensale?
+    * [Etherscan](https://etherscan.io/address/0x50126e8fcb9be29f83c6bbd913cc85b40eaf86fc)
+  
+* ##### Is SWT listed on any crypto exchanges? 
+    * [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-SWT)
+    * [Etherdelta](https://etherdelta.github.io/#SWT-ETH)
+    * [Cryptoderivates](https://cryptoderivatives.market/token/SWT)
+    * [Changelly](https://changelly.com)
+    * [Coincap](http://coinmarketcap.com/assets/swarm-city/#charts)
+
+* ##### How can I tell what my SWT tokens are worth?
+    * [Cryptocompare](https://www.cryptocompare.com/coins/swt/overview/BTC)
+    * [Dragonfrugal](https://dragonfrugal.com/coin-prices/index.php)
+    
+* ##### Is there a tutorial on how to buy SWT? 
+    * Bittrex tutorial on [Youtube](https://www.youtube.com/watch?v=CJIOeYI-e7o)
+
+* ##### How do I convert ARC to SWT?
+    * Visit the Swarm City Support FAQ - [ARC2SWT](https://swarmcitysupport.github.io/FAQ/#arc-to-swt-token-exchange)
+
+* #####  Where can I view the SWT token contract?
+    * SWT ERC-20 token contract on [Etherscan](https://etherscan.io/token/0xB9e7F8568e08d5659f5D29C4997173d84CdF2607)
+
+* ##### How can I see SWT transactions?
+    * [Ethplorer](https://ethplorer.io/address/0xb9e7f8568e08d5659f5d29c4997173d84cdf2607#pageSize=100)
+    
+* ##### When will the Swarm City DApp be released?
+  * It is already available [ https://swarm.city ]. We are close to a MVP status. Which means it will be usable with the minimum set of functions that are needed. After that we improve and enhance the product so that it gets really smooth, neat and easy to use. 
+  
+* ##### Are there more FAQ about Swarm City?
+  * Sure! Visit [Swarm City Support FAQ](https://swarmcitysupport.github.io/FAQ/)
 ### If you didn't find the answer you are looking for contact us at support@swarm.city
