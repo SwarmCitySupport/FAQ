@@ -1,20 +1,18 @@
 # Swarm City FAQ  
 ---
 
-### General Questions  
+### Swarm City Project  
 
 
 Question | Answer
 -------- | ------------
-<a id="ridesharing" href="https://queenbeesc.github.io/swarm.city-Terminal/"><b>
-<a id="ridesharing" href=""><b>Who is behind the Swarm City project?</b></a> | Is the Swarm City app ready to use for ridesharing?</b></a> | No, that feature will be available in the second release, Boardwalk, coming soon. At this time, you can use [the Terminal](https://swarm.city) to create a profile, exchange ARC to SWT, and send/receive SWT
+What is Swarm City? | A global community building a decentralized app built on the Ethereum blockchain to provide open marketplaces for the exchange of services between peers
+<a id="leadDevelopment" href="#product"><b>Who is behind the Swarm City product development?</b></a> | [Business & Tech Team](https://getactivein.swarm.city/) [Advisors](https://advisors.swarm.city/)
+<a id="rideshareApp" href="#app"><b>Is the Swarm City app ready to use for ridesharing?</b></a> | No, that feature will be available in the second release, Boardwalk, coming soon. At this time, you can use [the Terminal](https://swarm.city) to create a profile, exchange ARC to SWT, and send/receive SWT
 <a id="beforeApp" href="https://queenbeesc.github.io/NeedARide/"><b>How are people using Swarm City for ridesharing before it's available in the app?</b></a> | Join your local Facebook [Swarm City #needaride](https://queenbeesc.github.io/NeedARide/) group. Post #needaride and meet others in your area. One of your peers will respond to the post. The 2 parties can negotiate the rest, #done
 <a id="playStore" href="#playStore"><b>Will the Swarm City app be downloadable in the playstore?</b></a> | No, we have decided against listing the Swarm City app in the Google or Apple playstores. We are creating a Decentralized App (DApp), we do not want to create limitations to suit Google or Apple guidelines. 
 <a id="whatsaDapp" href="#whatsaDapp"><b>What is a DApp?</b></a> | Decentralized Apps (DApps) are a new type of software program designed to exist on the Internet in a way that is not controlled by any single entity. No central servers, no data collection.
 <a id="openSource" href="#openSource"><b>Is the Swarm City DApp open source?</b></a> | Yes, Swarm City is an open-source P2P web application platform, providing decentralized, privacy-preserving software which keeps users in control of their own content. [Github](https://github.com/swarmcity)
-<a id="howToGet" href="#howToGet"><b>How do I get SWT?</b></a> | The best way to buy SWT is from an exchange. [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-SWT), [Etherdelta](https://etherdelta.github.io/#SWT-ETH), [CryptoDerivatives](https://cryptoderivatives.market/token/SWT), [Changelly](https://changelly.com)
-<a id="howToBalance" href="#howToBalance"><b>How can I view my SWT balance using etherscan?</b></a> | Go to the [SWT ERC 20 contract](https://etherscan.io/token/0xB9e7F8568e08d5659f5D29C4997173d84CdF2607) > Filter by: "add your SWT wallet public address > APPLY
-<a id="howToCheckValue" href="#howToCheckValue"><b>Where can I check the current value of SWT?</b></a> | [Coinmarketcap](http://coinmarketcap.com/assets/swarm-city/)
 <a id="whereIsRoadmap" href="#whereIsRoadmap"><b>Where can I find the project roadmap?</b></a> | This Medium article best describes the long term vision of the project [Unmistakably Swarm City](https://press.swarm.city/unmistakably-swarm-city-9522606f88)
 <a id="howToJoin" href="#howToJoin"><b>How do I join?</b></a> | Visit [the Terminal](https://swarm.city) to create a user profile and a digital wallet 
 <a id="howToFindLocalc" href="#howToFindLocalc"><b>How do I find other locals?</b></a> | Facebook [Swarm City #needaride](https://www.swarmedup.com/needaride/) groups
@@ -25,14 +23,17 @@ Question | Answer
 
 <br>
 
-### Convert ARC to SWT
+### Swarm City Tokens (SWT)
 ---    
 
 <br>
 
 Question | Answer 
 -------- | ------
-<a id="whatIsSWT" href="#whatIsSWT"><b>What is a Swarm City Token (SWT)?</b></a> | The SWT is a utility token used to pay for transactions in the Swarm City ecosystem 
+<a id="whatIsSWT" href="#whatIsSWT"><b>What is a Swarm City Token (SWT)?</b></a> | The SWT is a utility token used to pay for transactions in the Swarm City ecosystem
+<a id="howToGet" href="#howToGet"><b>How do I get SWT?</b></a> | The best way to buy SWT is from an exchange. [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-SWT), [Etherdelta](https://etherdelta.github.io/#SWT-ETH), [CryptoDerivatives](https://cryptoderivatives.market/token/SWT), [Changelly](https://changelly.com)
+<a id="howToBalance" href="#howToBalance"><b>How can I view my SWT balance using etherscan?</b></a> | Go to the [SWT ERC 20 contract](https://etherscan.io/token/0xB9e7F8568e08d5659f5D29C4997173d84CdF2607) > Filter by: "add your SWT wallet public address > APPLY
+<a id="howToCheckValue" href="#howToCheckValue"><b>Where can I check the current value of SWT?</b></a> | [Coinmarketcap](http://coinmarketcap.com/assets/swarm-city/)
 <a id="whyExchange" href="#whyExchange"><b>Why do I need to exchange tokens?</b></a> | For the benefit of this project it was necessary to fork the brand from Arcade City to Swarm City. However, we wanted to make sure the brand fork did not impact Arcade City token owners. The last step to completing our rebranding process is upgrading our token to the ‘Swarm City Token’ (SWT)
 <a id="whatIsSWTfor" href="#whatIsSWTfor"><b>What can I use SWT for?</b></a> | The Swarm City ecosystem will run on SWT
 <a id="whyBrandFork" href="#whyBrandFork"><b>Why the brand fork?</b></a> | There are 2 key reasons for the brand fork, the ARC symbol was already in use by some other coins and the previous token contract cannot be renamed and would not have suited the new branding
@@ -58,41 +59,6 @@ Question | Answer
 <a id="tokenexchange" href="#tokenexchange"><b>Is there a more technical updated whitepaper?</b></a> | Yes, the [Token exchange whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md) was published by the project developers after the name brandfork in January 2017
 <a id="tokencontract" href="#tokencontract"><b>How do I view the ERC-20 token contract?</b></a> | Visit Etherscan to monitor the [SWT ERC-20 token contract](https://etherscan.io/token/0xB9e7F8568e08d5659f5D29C4997173d84CdF2607) 
 
-
-
-* ##### Who is behind the Swarm City project? 
-  * [Team](https://getactivein.swarm.city/)  
-  * [Advisors](https://advisors.swarm.city/)
   
-* ##### Where are the funds from the tokensale?
-    * [Etherscan](https://etherscan.io/address/0x50126e8fcb9be29f83c6bbd913cc85b40eaf86fc)
-  
-* ##### Is SWT listed on any crypto exchanges? 
-    * [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-SWT)
-    * [Etherdelta](https://etherdelta.github.io/#SWT-ETH)
-    * [Cryptoderivates](https://cryptoderivatives.market/token/SWT)
-    * [Changelly](https://changelly.com)
-    * [Coincap](http://coinmarketcap.com/assets/swarm-city/#charts)
-
-* ##### How can I tell what my SWT tokens are worth?
-    * [Cryptocompare](https://www.cryptocompare.com/coins/swt/overview/BTC)
-    * [Dragonfrugal](https://dragonfrugal.com/coin-prices/index.php)
-    
-* ##### Is there a tutorial on how to buy SWT? 
-    * Bittrex tutorial on [Youtube](https://www.youtube.com/watch?v=CJIOeYI-e7o)
-
-* ##### How do I convert ARC to SWT?
-    * Visit the Swarm City Support FAQ - [ARC2SWT](https://swarmcitysupport.github.io/FAQ/#arc-to-swt-token-exchange)
-
-* #####  Where can I view the SWT token contract?
-    * SWT ERC-20 token contract on [Etherscan](https://etherscan.io/token/0xB9e7F8568e08d5659f5D29C4997173d84CdF2607)
-
-* ##### How can I see SWT transactions?
-    * [Ethplorer](https://ethplorer.io/address/0xb9e7f8568e08d5659f5d29c4997173d84cdf2607#pageSize=100)
-    
-* ##### When will the Swarm City DApp be released?
-  * It is already available [ https://swarm.city ]. We are close to a MVP status. Which means it will be usable with the minimum set of functions that are needed. After that we improve and enhance the product so that it gets really smooth, neat and easy to use. 
-  
-
 
 ### If you didn't find the answer you are looking for contact us at support@swarm.city
