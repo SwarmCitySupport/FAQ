@@ -6,8 +6,8 @@
 
 Question | Answer
 -------- | ------------
-What is Swarm City? | A global community building a decentralized app built on the Ethereum blockchain to provide open marketplaces for the exchange of services between peers
-<a id="leadDevelopment" href="#product"><b>Who is behind the Swarm City product development?</b></a> | [Business & Tech Team](https://getactivein.swarm.city/) [Advisors](https://advisors.swarm.city/)
+<a id="whatisSwarmcity" href="https://queenbeesc.github.io/swarm.city/"><b>What is Swarm City?</b></a> | A global community building a decentralized app built on the Ethereum blockchain to provide open marketplaces for the exchange of services between peers  
+<a id="leadDevelopment" href="#product"><b>Who is behind the Swarm City product development?</b></a> | [Business & Tech Team](https://getactivein.swarm.city/) [Advisors](https://advisors.swarm.city/)  
 <a id="rideshareApp" href="#app"><b>Is the Swarm City app ready to use for ridesharing?</b></a> | No, that feature will be available in the second release, Boardwalk, coming soon. At this time, you can use [the Terminal](https://swarm.city) to create a profile, exchange ARC to SWT, and send/receive SWT
 <a id="beforeApp" href="https://queenbeesc.github.io/NeedARide/"><b>How are people using Swarm City for ridesharing before it's available in the app?</b></a> | Join your local Facebook [Swarm City #needaride](https://queenbeesc.github.io/NeedARide/) group. Post #needaride and meet others in your area. One of your peers will respond to the post. The 2 parties can negotiate the rest, #done
 <a id="playStore" href="#playStore"><b>Will the Swarm City app be downloadable in the playstore?</b></a> | No, we have decided against listing the Swarm City app in the Google or Apple playstores. We are creating a Decentralized App (DApp), we do not want to create limitations to suit Google or Apple guidelines. 
