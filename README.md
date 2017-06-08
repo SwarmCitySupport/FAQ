@@ -24,7 +24,7 @@ Question | Answer
 
 <br>
 
-### Swarm City Tokens (SWT)
+## Swarm City Tokens (SWT)
 ---    
 
 <br>
