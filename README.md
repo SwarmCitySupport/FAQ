@@ -1,7 +1,8 @@
 # Swarm City FAQ  
----
 
-### Swarm City Project  
+
+## Swarm City Project
+---  
 
 
 Question | Answer
